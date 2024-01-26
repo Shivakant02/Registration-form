@@ -1,0 +1,4 @@
+MONGODB_URL=your database url
+PORT=""
+SECRET=your key
+CLIENT_URL=react url
